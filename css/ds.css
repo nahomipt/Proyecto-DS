@@ -1,0 +1,52 @@
+#pollo {
+   height: 650px;
+    overflow: hidden;
+
+}
+.carousel {
+    height: 100%;
+}
+.carousel-item {
+    height: 100%;
+}
+.carousel-tem img {
+    height: 100%;
+    object-fit: cover;
+}
+
+.banner-nosotros{
+    background: url('../img/nosotros-banner.jpg');
+    background-size: cover;
+    background-position-y: center;
+    padding: 80px 60px;
+    color: #FFF;
+}
+
+.banner-home{
+    background: url('../img/banner-home.jpg');
+    background-size: cover;
+    padding: 80px 60px;
+    color: #FFF;
+}
+
+.container{
+    padding-top: 40px;
+}
+
+.pilares {
+    background-color: #eee4dc
+}
+
+.servicios {
+    background-color: #eee4dc
+}
+
+.avatar-wrapper {
+    height: 200px;
+}
+
+.avatar-wrapper img {
+    height: 100%;
+    object-fit: cover;
+    object-position: top;
+}

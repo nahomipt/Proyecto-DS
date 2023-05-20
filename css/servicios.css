@@ -1,0 +1,15 @@
+.banner-servicios{
+    background-image: url('../img/banner-servicios.jpg');
+    background-size: cover;
+    background-position-y: center;
+    padding: 80px 60px;
+    color: #FFF;
+}
+
+.container{
+    padding-top: 40px;
+}
+
+.servicios {
+    background-color: #eee4dc
+}

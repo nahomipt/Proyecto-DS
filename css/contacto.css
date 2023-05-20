@@ -1,0 +1,11 @@
+.banner-contacto{
+    background: url('../img/banner-contacto.jpg');
+    background-size: cover;
+    background-position-y: center;
+    padding: 80px 60px;
+    color: #FFF;
+}
+
+.container{
+    padding-top: 60px;
+}
